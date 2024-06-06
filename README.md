@@ -1,2 +1,2 @@
  JavaScript
- JavaaScript best language 
+ JavaScript best language in all computer languages
